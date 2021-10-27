@@ -25,3 +25,4 @@ Conclusão
 # Autores
 
 - Antonio Deusany de Carvalho Junior
+- Jefferson Luiz Costas Gonçalves
