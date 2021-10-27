@@ -26,3 +26,6 @@ Conclusão
 
 - Antonio Deusany de Carvalho Junior
 - Thiago Frere Riciopo
+- Renan Gomes
+- Jefferson Luiz Costas Gonçalves
+- William Jonathan Soares de Brito
