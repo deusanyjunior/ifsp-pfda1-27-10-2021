@@ -24,4 +24,4 @@ Conclusão
 
 # Autores
 
-- Antonio Deusany de Carvalho Junior
+- William Jonathan Soares de Brito  
