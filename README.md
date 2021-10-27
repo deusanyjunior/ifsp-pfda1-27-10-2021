@@ -31,3 +31,4 @@ Conclusão
 - Jefferson Luiz Costas Gonçalves
 - William Jonathan Soares de Brito
 - Marcos Vinicius da Silva
+- Wesley Vieira dos Santos
