@@ -25,7 +25,9 @@ Conclusão
 # Autores
 
 - Antonio Deusany de Carvalho Junior
+- Wesley Faveron de Almeida
 - Thiago Frere Riciopo
 - Renan Gomes
 - Jefferson Luiz Costas Gonçalves
 - William Jonathan Soares de Brito
+
