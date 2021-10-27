@@ -26,3 +26,5 @@ Conclusão
 
 - Antonio Deusany de Carvalho Junior
 - Renan Gomes
+- Jefferson Luiz Costas Gonçalves
+- William Jonathan Soares de Brito
