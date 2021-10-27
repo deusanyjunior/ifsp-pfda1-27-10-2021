@@ -33,6 +33,4 @@ Conclusão
 - Sarah Santiago
 - Marcos Vinicius da Silva
 - Wesley Vieira dos Santos
-
-
 - Lucas de Oliveira
