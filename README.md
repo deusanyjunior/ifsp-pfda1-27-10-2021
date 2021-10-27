@@ -25,3 +25,5 @@ Conclusão
 # Autores
 
 - William Jonathan Soares de Brito  
+- Wesley Vieira dos Santos
+- 
