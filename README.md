@@ -32,4 +32,4 @@ Conclusão
 - William Jonathan Soares de Brito
 - Sarah Santiago
 - Marcos Vinicius da Silva
-
+- Wesley Vieira dos Santos
