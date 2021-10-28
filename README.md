@@ -15,6 +15,7 @@ Introdução
 Desenvolvimento
 
 - Escreva uma frase sobre sobre o twitassuu e estamos sem dinnheiro
+Quero testar mais um pouco para ver se consegui aprender certinho
 
 -
 
