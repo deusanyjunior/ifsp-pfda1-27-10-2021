@@ -17,7 +17,7 @@ Desenvolvimento
 - Escreva uma frase sobre sobre o twitassuu e estamos sem dinnheiro
 Quero testar mais um pouco para ver se consegui aprender certinho
 
--
+- Escreva uma frase sobre sobre o twitassuu e estamos sem dinnheiro. Contudo, contextualize o twitassuu a fim de desmistificar esse conceito abstrato.
 
 -
 
@@ -34,6 +34,5 @@ Conclusão
 - Sarah Santiago
 - Marcos Vinicius da Silva
 - Wesley Vieira dos Santos
-
-
 - Lucas de Oliveira
+- Luís Gustavo Carrara
