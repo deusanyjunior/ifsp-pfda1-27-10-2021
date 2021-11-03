@@ -14,7 +14,7 @@ Introdução
 
 Desenvolvimento
 
-- Escreva uma frase sobre sobre o twitassuu e estamos sem dinnheiro
+- Escreva uma frase sobre sobre o twitassuu e estamos sem dinnheiro. Contudo, contextualize o twitassuu a fim de desmistificar esse conceito abstrato.
 
 -
 
@@ -34,3 +34,4 @@ Conclusão
 - Marcos Vinicius da Silva
 - Wesley Vieira dos Santos
 - Lucas de Oliveira
+- Luís Gustavo Carrara
