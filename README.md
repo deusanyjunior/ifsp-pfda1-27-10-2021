@@ -4,7 +4,7 @@ Repositório base para a aula
 
 # Atividade de hoje:
 
-1. Escrever uma dissertação sobre o twitasssuu da ciência
+1. Escrever uma dissertação sobre o twitasssuu da ciência!!!!!!
 
 
 # Dissertação
